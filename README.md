@@ -44,6 +44,7 @@ Emoji-Prediction-Using-ML-main/
 │   ├── x.py
 |── Emoji Prediction Using ML
 |── Emoji_Prediction_Using_ML
+|── .gitignore
 ```
 ---
 
