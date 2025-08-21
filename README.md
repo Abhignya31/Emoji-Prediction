@@ -39,9 +39,9 @@ It learns semantic relationships between words, so it can associate unseen words
 ```text
 Emoji-Prediction-Using-ML-main/
 |── datasets/             # Training and testing datasets
-│   ├── test.py           # Model Testing
-│   ├── train.py          # Model training
-│   ├── x.py
+│   ├── x.py           # Model Testing
+│   ├── test.csv          # Model training
+│   ├── train.csv
 |── Emoji Prediction Using ML
 |── Emoji_Prediction_Using_ML
 |── .gitignore
